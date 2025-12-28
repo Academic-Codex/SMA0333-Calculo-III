@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SMA0333-Calculo-III">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:35.641546Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:34:56.717988Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
