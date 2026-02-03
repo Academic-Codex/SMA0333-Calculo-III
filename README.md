@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SMA0333-Calculo-III">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:41:04.915656Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SMA0333-Calculo-III?utm_source=SMA0333-Calculo-III&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:20.241584Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
